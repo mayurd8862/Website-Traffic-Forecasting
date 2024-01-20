@@ -18,7 +18,7 @@ Before you begin, ensure you have the following prerequisites installed:
 Clone the project
 
 ```bash
-  https://github.com/mayurd8862/Health-Insurance-Prediction.git
+  git clone https://github.com/mayurd8862/Website-Traffic-Forecasting.git
 ```
 
 Go to the project directory

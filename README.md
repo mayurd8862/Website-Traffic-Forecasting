@@ -23,12 +23,15 @@ Clone the project
 
 Go to the project directory
 
-
 Install dependencies
 
 ```bash
   pip install -r requirements.txt
 ```
+
+## Output predictions
+
+![image](https://github.com/mayurd8862/Website-Traffic-Forecasting/assets/113239727/33514560-8ee7-40e7-b779-3f683b670523)
 
 
 ## 🚀 About Me
